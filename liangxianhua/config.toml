@@ -53,7 +53,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "梁先华"
   email = "liangbing90990@gmail.com"
-  link = ""
+  link = "https://github.com/andy90s"
 
 # Menu config
 # 菜单配置

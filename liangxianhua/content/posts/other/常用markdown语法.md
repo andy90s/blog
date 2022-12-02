@@ -4,6 +4,7 @@ date: 2022-11-30T19:50:01+08:00
 draft: false
 ---
 ## 代码块
+### TOML
 ```toml
 baseURL = "http://example.org/"
 
@@ -20,16 +21,20 @@ languageName = "简体中文"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 ```
+### bash
 ```bash
 git clone https://github.com/dillonzq/LoveIt.git themes/LoveI
 ```
-```scss
-@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,700&display=swap&subset=latin-ext');
-$code-font-family: Fira Mono, Source Code Pro, Menlo, Consolas, Monaco, monospace;
-```
-## 注意
+
+### css
+```scss                
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,700&display=swap&subset=latin-ext');             
+$code-font-family: Fira Mono, Source Code Pro, Menlo, Consolas, Monaco, monospace;           
+```     
+
+## admonition
 {{< admonition >}}
-admonition
+注意
 {{< /admonition >}}
 
 {{< admonition note "admonition note" >}}
@@ -40,8 +45,6 @@ admonition note
 admonition tip
 {{< /admonition >}}
 ## 版本
-{{< version 0.0.1 >}}
-
-{{< version 0.0.1 changed >}}
-
-{{< version 0.0.1 deleted >}}
+{{< version 0.0.1 >}}       
+{{< version 0.0.2 changed >}}       
+{{< version 0.0.3 deleted >}}           

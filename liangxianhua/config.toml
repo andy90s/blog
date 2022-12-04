@@ -261,7 +261,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/avatar.jpeg"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
@@ -609,7 +609,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        logoUrl = "/images/avatar.jpeg"
 
   # TypeIt config
   # TypeIt 配置
@@ -863,7 +863,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/avatar.jpeg"
           title = ""
           subtitle = "A Clean, Elegant but Advanced Hugo Theme"
           typeit = true
@@ -956,7 +956,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.zh-cn.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/avatar.jpeg"
           title = ""
           subtitle = "梁先华个人博客,欢迎大佬们讨论分享"
           typeit = true

@@ -5,8 +5,11 @@ draft: false
 categories: ["Web"]
 tags: ["HTML"]
 keywords: ["HTML"]
+featuredImage: "/images/fengmian4.jpg"
+featuredImagePreview: "/images/fengmian4.jpg"
+description: "HTML用于描述页面的结构"
 ---
-
+<!--more-->
 ## 软件
 - 应用软件`C/S`架构;C: Client /S: Server
 - 网页端的软件`B/S`架构; B: Browser 

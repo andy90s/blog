@@ -2,7 +2,14 @@
 title: "Git常见问题汇总"
 date: 2022-11-30T18:58:31+08:00
 draft: false
+tags: ["git"]
+categories: ["git"]
+keywords: ["git"]
+description: "利用ssh生成秘钥"
+featuredImage: "/images/fengmian2.jpg"
+featuredImagePreview: "/images/fengmian2.jpg"
 ---
+<!--more-->
 ## 生成ssh-key
 ### 1. 利用ssh生成秘钥(这里以github平台为例)
 ```bash

@@ -1,8 +1,15 @@
 ---
-title: "常用markdown语法(hugo+loveit主题)"
+title: "常用markdown语法"
 date: 2022-11-30T19:50:01+08:00
 draft: false
+categories: ["docs"]
+tags: ["hugo"]
+keywords: ["hugo"]
+featuredImage: "/images/fengmian4.jpg"
+featuredImagePreview: "/images/fengmian4.jpg"
+description: "常用markdown语法(hugo+loveit主题)"
 ---
+<!--more-->
 ## 代码块
 ### TOML
 ```toml

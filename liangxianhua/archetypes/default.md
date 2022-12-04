@@ -2,8 +2,11 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-categories: ["Web"]
-tags: ["HTML"]
-keywords: ["HTML"]
+categories: []
+tags: []
+keywords: []
+featuredImage: ""
+featuredImagePreview: ""
+description: ""
 ---
-
+<!--more-->

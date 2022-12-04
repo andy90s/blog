@@ -5,7 +5,11 @@ draft: false
 categories: ["Web"]
 tags: ["HTML"]
 keywords: ["HTML"]
+featuredImage: "/images/fengmian4.jpg"
+featuredImagePreview: "/images/fengmian4.jpg"
+description: "主要用于设置网页中的一些元数据,元数据不是给用户看"
 ---
+<!--more-->
 ```css
 <!DOCTYPE html>
 <html lang="en">

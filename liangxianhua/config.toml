@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-
+ 
 # theme
 # 主题
 theme = "LoveIt"
@@ -117,10 +117,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
 
-  [params.reward]                                  # 文章打赏
-  enable = false
-  wechat = "/images/wechat.png"           # 微信二维码
-  alipay = "/images/alipay.png"           # 支付宝二维码
+ 
 
 
   # Header config
@@ -150,6 +147,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
       typeit = false
+
+  [params.reward]                                  # 文章打赏
+    enable = true
+    wechat = "/images/wechat.png"          # 微信二维码
+    alipay = "/images/alipay.png"         # 支付宝二维码
+
+  [params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
+    enable = true
+    siteUV = true
+    sitePV = true
+    pagePV = true
+
 
   # Footer config
   # 页面底部信息配置
@@ -189,6 +198,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # amount of RSS pages
     # RSS 文章数目
     rss = 10
+
 
   # List (category or tag) page config
   # List (目录或标签) 页面配置

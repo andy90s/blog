@@ -8,6 +8,8 @@ keywords: [CSS]
 featuredImage: "/images/fengmian4.jpg"
 featuredImagePreview: "/images/fengmian4.jpg"
 description: "css用来设置网页中元素的样式"
+reward: true
+
 ---
 <!--more-->
 ## 简介

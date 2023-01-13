@@ -1,7 +1,6 @@
 ---
 title: "UITableView使用总结"
 date: 2023-01-06T11:20:37+08:00
-lastmod: 2022-12-30T11:51:30+08:00
 draft: false
 categories: [iOS]
 tags: [iOS]
@@ -31,7 +30,7 @@ public enum Style : Int, @unchecked Sendable {
 <div style="color:black;"> <b> insetGrouped </b>  </div>
 </center>
 
-### UITableView的类型(type)为`grouped`时,tableView头部有间距
+### iOS15系统之后type为`grouped`时,头部有间距
 ```swift
 if #available(iOS 15.0, *) {
     tableView.sectionHeaderTopPadding = 0
@@ -43,7 +42,7 @@ if (@available(iOS 15.0, *)) {
 }
 ```
 
-### UITableView的类型(type)为`grouped`时,组间距问题
+### type为`grouped`时,组间距问题
 ```swift
 func tableView(_ tableView: UITableView, heightForFooterInSection section: Int) -> CGFloat {
     return 0

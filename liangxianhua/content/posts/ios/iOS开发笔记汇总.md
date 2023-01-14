@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "IOS开发笔记汇总"
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2023-01-14T14:48:36+08:00
+lastmod: 2023-01-14T14:48:36+08:00
 draft: false
 author: "andy90s"
 authorLink: ""
@@ -10,10 +10,10 @@ description: ""
 license: ""
 images: []
 
-tags: []
-categories: []
-featuredImage: ""
-featuredImagePreview: ""
+tags: [iOS]
+categories: [iOS]
+featuredImage: "/images/fengmian1.jpg"
+featuredImagePreview: "/images/fengmian1.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -59,3 +59,15 @@ seo:
   # ...
 ---
 <!--more-->
+
+## 前言
+总结自己的iOS开发笔记
+## UIKit
+### UITableView
+
+[【UITableView使用记录】]({{< ref "UITableView.md" >}}) 
+
+[【UITableView使用记录】]({{< relref "UITableView.md" >}})
+
+
+## Foundation

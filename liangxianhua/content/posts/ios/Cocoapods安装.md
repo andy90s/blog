@@ -4,7 +4,7 @@ date: 2022-12-30T11:51:30+08:00
 lastmod: 2022-12-30T11:51:30+08:00
 draft: true
 categories: [iOS]
-tags: [cocoapods]
+tags: [cocoapods,iOS]
 keywords: [cocoapods]
 featuredImage: "/images/fengmian4.jpg"
 featuredImagePreview: "/images/fengmian4.jpg"

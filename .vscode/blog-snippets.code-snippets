@@ -6,7 +6,7 @@
 	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
 	// Placeholders with the same ids are connected.
 	
-	// 设置markdown图片引用,仅支持hugo
+	// markdown图片引用,仅支持hugo
 	"markdown-img": {
 		
 		"prefix": "img",
@@ -17,5 +17,34 @@
 		"</center>"
 		],
 		"description": "blog-img"
-	}
+	},
+	// 内部跳转link
+	"markdown-link-in": {
+		"prefix": "linkin",
+		"body": [
+			"[【$1】]({{<relref \"$2\">}})"
+		],
+		"description": "blog-link"
+	},
+	// 外部跳转link
+	"markdown-link-out": {
+		"prefix": "link",
+		"body": [
+			"{{<link href=\"$1\" content=\"【$2】\">}}"
+		],
+		"description": "blog-link"
+	},
+
+	// 提示
+	"markdown-tip": {
+		"prefix": "admonition",
+		"body": [
+			"{{< admonition tip \"$1\">}}",
+			
+			"{{< /admonition >}}"
+		],
+		"description": "blog-link"
+	},
+
+
 }

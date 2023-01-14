@@ -2,7 +2,7 @@
 title: "Cocoapods安装"
 date: 2022-12-30T11:51:30+08:00
 lastmod: 2022-12-30T11:51:30+08:00
-draft: false
+draft: true
 categories: [iOS]
 tags: [cocoapods]
 keywords: [cocoapods]

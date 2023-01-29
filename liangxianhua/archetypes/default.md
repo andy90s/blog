@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 date: {{ .Date }}
-lastmod: {{ .Date }}
+# lastmod: {{ .Date }}
 draft: false
 author: "andy90s"
 authorLink: ""

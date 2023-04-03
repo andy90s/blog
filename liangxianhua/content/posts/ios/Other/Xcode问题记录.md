@@ -10,10 +10,10 @@ description: ""
 license: ""
 images: []
 
-tags: []
-categories: []
-featuredImage: ""
-featuredImagePreview: ""
+tags: [Xcode14,ios]
+categories: [ios]
+featuredImage: "/images/fengmian4.jpg"
+featuredImagePreview: "/images/fengmian4.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

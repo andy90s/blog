@@ -1,5 +1,5 @@
 ---
-title: "Ios录音"
+title: "iOS录音功能"
 subtitle: ""
 date: 2023-04-23T09:29:14+08:00
 # lastmod: 2023-04-23T09:29:14+08:00
@@ -10,10 +10,10 @@ description: "iOS原生API录音功能"
 license: ""
 images: []
 
-tags: []
-categories: []
-featuredImage: "/images/fengmian4.jpg"
-featuredImagePreview: "/images/fengmian4.jpg"
+tags: [iOS, AVFoundation]
+categories: [iOS]
+featuredImage: "/images/fengmian3.jpg"
+featuredImagePreview: "/images/fengmian3.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

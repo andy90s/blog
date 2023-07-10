@@ -150,8 +150,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   [params.reward]                                  # 文章打赏
     enable = true
-    wechat = "/images/wechat.png"          # 微信二维码
-    alipay = "/images/alipay.png"         # 支付宝二维码
+    wechat = "static/images/wechat.jpeg"          # 微信二维码
+    alipay = "static/images/alipay.jpeg"         # 支付宝二维码
 
   [params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
     enable = true

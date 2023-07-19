@@ -1,19 +1,19 @@
 ---
-title: "Mac安装MySQL"
+title: "Mac安装MySQL及简单使用"
 subtitle: ""
 date: 2023-07-11T17:30:23+08:00
 # lastmod: 2023-07-11T17:30:23+08:00
 draft: false
 author: "andy90s"
 authorLink: ""
-description: ""
+description: "MySQL是一种流行的关系型数据库管理系统，本文将介绍如何在Mac上安装MySQL并创建数据库和表格。"
 license: ""
 images: []
 
 tags: [mysql]
 categories: [mysql]
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "/images/fengmian4.jpg"
+featuredImagePreview: "/images/fengmian4.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -136,6 +136,7 @@ show databases;
 ```shell
 use mysite;
 ```
+
 ### - 创建表
 ```shell
 CREATE TABLE `app_userinfo` (
@@ -156,8 +157,6 @@ CREATE TABLE `app_userinfo` (
 ```shell
 desc app_userinfo;
 ```
-
-
 
 ## 参考
 {{<link href="https://www.sjkjc.com/mysql/install-on-macos/" content="【Mac安装MySQL】">}}

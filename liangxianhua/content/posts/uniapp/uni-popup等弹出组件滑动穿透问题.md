@@ -10,8 +10,8 @@ description: ""
 license: ""
 images: []
 
-tags: [uni-app,vue]
-categories: []
+tags: [uniapp,vue]
+categories: [uniapp]
 featuredImage: ""
 featuredImagePreview: ""
 

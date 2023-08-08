@@ -10,8 +10,8 @@ description: ""
 license: ""
 images: []
 
-tags: [uni-app,vue]
-categories: []
+tags: [uniapp,vue]
+categories: [uniapp]
 featuredImage: "/images/fengmian1.jpg"
 featuredImagePreview: "/images/fengmian1.jpg"
 

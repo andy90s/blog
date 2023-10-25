@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: []
+categories: ["移动端"]
 featuredImage: ""
 featuredImagePreview: ""
 

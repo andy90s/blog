@@ -2,7 +2,7 @@
 title: "Web学习笔记 - CSS简介"
 date: 2022-12-04T13:51:23+08:00
 draft: false
-categories: [Web]
+categories: ["前端"]
 tags: [HTML]
 keywords: [CSS]
 featuredImage: "/images/fengmian4.jpg"

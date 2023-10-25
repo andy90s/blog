@@ -10,7 +10,7 @@ license: ""
 images: []
 
 tags: [iOS]
-categories: [iOS]
+categories: ["移动端"]
 featuredImage: "/images/fengmian1.jpg"
 featuredImagePreview: "/images/fengmian1.jpg"
 

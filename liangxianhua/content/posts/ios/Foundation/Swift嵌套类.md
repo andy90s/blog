@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [iOS,Swift,嵌套]
-categories: [iOS]
+categories: ["移动端"]
 featuredImage: "/images/fengmian.jpg"
 featuredImagePreview: "/images/fengmian.jpg"
 

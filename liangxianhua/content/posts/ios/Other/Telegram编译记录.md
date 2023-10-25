@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [Telegram,iOS]
-categories: [ios]
+categories: ["移动端"]
 featuredImage: "/images/fengmian4.jpg"
 featuredImagePreview: "/images/fengmian4.jpg"
 

@@ -2,7 +2,7 @@
 title: "Cocoapods安装"
 date: 2022-12-30T11:51:30+08:00
 draft: true
-categories: [iOS]
+categories: ["工具"]
 tags: [cocoapods,iOS]
 keywords: [cocoapods]
 featuredImage: "/images/fengmian4.jpg"

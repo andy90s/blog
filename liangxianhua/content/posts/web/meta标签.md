@@ -2,7 +2,7 @@
 title: "Web学习笔记 - Meta标签"
 date: 2022-12-01T14:38:42+08:00
 draft: false
-categories: ["Web"]
+categories: ["前端"]
 tags: ["HTML"]
 keywords: ["HTML"]
 featuredImage: "/images/fengmian4.jpg"

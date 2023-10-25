@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: []
+categories: ["前端"]
 featuredImage: ""
 featuredImagePreview: ""
 

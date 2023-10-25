@@ -2,7 +2,7 @@
 title: "Web学习笔记 - HTML相关简介"
 date: 2022-12-01T14:32:29+08:00
 draft: false
-categories: ["Web"]
+categories: ["前端"]
 tags: ["HTML"]
 keywords: ["HTML"]
 featuredImage: "/images/fengmian4.jpg"

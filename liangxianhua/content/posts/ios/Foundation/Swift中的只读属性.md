@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [iOS只读,Swift,OC]
-categories: [iOS]
+categories: ["移动端"]
 featuredImage: "/images/fengmian.jpg"
 featuredImagePreview: "/images/fengmian.jpg"
 

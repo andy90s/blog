@@ -10,8 +10,8 @@ description: ""
 license: ""
 images: []
 
-tags: []
-categories: []
+tags: [Chrome]
+categories: ["工具"]
 featuredImage: ""
 featuredImagePreview: ""
 

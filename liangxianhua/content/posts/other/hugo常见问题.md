@@ -2,7 +2,7 @@
 title: "Hugo常见问题"
 date: 2022-12-02T11:48:52+08:00
 draft: false
-categories: ["docs"]
+categories: ["文档"]
 tags: ["hugo"]
 keywords: ["hugo"]
 description: "Hugo 文章通用配置,gitalk评论设置"

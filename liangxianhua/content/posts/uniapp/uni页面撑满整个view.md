@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [uniapp,vue]
-categories: [uniapp]
+categories: ["前端"]
 featuredImage: "/images/fengmian1.jpg"
 featuredImagePreview: "/images/fengmian1.jpg"
 

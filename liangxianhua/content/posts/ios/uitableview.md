@@ -2,7 +2,7 @@
 title: "UITableView使用记录"
 date: 2023-01-06T11:20:37+08:00
 draft: false
-categories: ["移动端"]
+categories: [移动端]
 tags: [iOS]
 keywords: [UITableView]
 featuredImage: "/images/fengmian4.jpg"

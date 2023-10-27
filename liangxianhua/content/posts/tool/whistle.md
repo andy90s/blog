@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: ["工具"]
+categories: [工具]
 featuredImage: ""
 featuredImagePreview: ""
 

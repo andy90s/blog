@@ -1,19 +1,19 @@
 ---
-title: "Swift中的嵌套"
+title: "AI生产力工具"
 subtitle: ""
-date: 2023-02-01T19:26:41+08:00
-# lastmod: 2023-02-01T19:26:41+08:00
-draft: true
+date: 2023-04-14T09:26:33+08:00
+# lastmod: 2023-04-14T09:26:33+08:00
+draft: false
 author: "andy90s"
 authorLink: ""
-description: "Swift中的嵌套..."
+description: "收集一些AI生产力工具，方便自己和大家使用。"
 license: ""
 images: []
 
-tags: [iOS,Swift,嵌套]
-categories: ["移动端"]
-featuredImage: "/images/fengmian.jpg"
-featuredImagePreview: "/images/fengmian.jpg"
+tags: [AI]
+categories: [工具]
+featuredImage: "/images/fengmian4.jpg"
+featuredImagePreview: "/images/fengmian4.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -59,4 +59,10 @@ seo:
   # ...
 ---
 <!--more-->
-## 前言
+## AI语言
+{{<link href="poe.com" content="【Poe】(chatgpt-4部分收费其他免费)">}}
+## AI编程
+{{<link href="https://github.com/features/copilot" content="【Copilot】(收费)">}}
+## AI抠图
+{{<link href="https://github.com/Sanster/lama-cleaner" content="【lama-cleaner】(开源)">}}
+

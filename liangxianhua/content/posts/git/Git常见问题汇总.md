@@ -2,8 +2,8 @@
 title: "Git常见问题汇总"
 date: 2022-11-30T18:58:31+08:00
 draft: false
-tags: ["git"]
-categories: ["文档"]
+tags: [git]
+categories: [文档]
 keywords: ["git"]
 description: "git github问题记录"
 featuredImage: "/images/fengmian2.jpg"

@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [iOS, AVFoundation]
-categories: ["移动端"]
+categories: [移动端]
 featuredImage: "/images/fengmian3.jpg"
 featuredImagePreview: "/images/fengmian3.jpg"
 

@@ -2,7 +2,7 @@
 title: "时间日期"
 date: 2022-12-05T14:56:04+08:00
 draft: true
-categories: ["移动端"]
+categories: [移动端]
 tags: [iOS]
 keywords: [时间日期]
 featuredImage: "/images/fengmian4.jpg"

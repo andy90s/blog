@@ -1,8 +1,9 @@
 ---
-title: "iOS开发笔记汇总"
+title: "退到后台通知引起的崩溃"
 subtitle: ""
-date: 2023-01-14T14:48:36+08:00
-draft: true
+date: 2023-05-17T21:40:52+08:00
+# lastmod: 2023-05-17T21:40:52+08:00
+draft: false
 author: "andy90s"
 authorLink: ""
 description: ""
@@ -10,9 +11,9 @@ license: ""
 images: []
 
 tags: [iOS]
-categories: ["移动端"]
-featuredImage: "/images/fengmian1.jpg"
-featuredImagePreview: "/images/fengmian1.jpg"
+categories: [移动端]
+featuredImage: ""
+featuredImagePreview: ""
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -58,12 +59,13 @@ seo:
   # ...
 ---
 <!--more-->
-
-## 前言
-总结自己的iOS开发笔记
-## UIKit
-### UITableView
-
-[【UITableView使用记录】]({{<relref "../ios/UIKit/UITableView.md" >}})
-
-## Foundation
+## 退到后台通知引起的崩溃
+不排除是特定版本的iOS系统bug
+## 解决
+```swift
+@objc func appDidEnterBackground() {
+    // 要判断当前应用程序状态是否为后台状态
+    guard UIApplication.shared.applicationState == .background else { return }
+    // todo something
+}
+```

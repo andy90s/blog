@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [iOS]
-categories: ["移动端"]
+categories: [移动端]
 featuredImage: ""
 featuredImagePreview: ""
 

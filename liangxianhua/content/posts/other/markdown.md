@@ -2,9 +2,9 @@
 title: "常用markdown语法(hugo)"
 date: 2022-11-30T19:50:01+08:00
 draft: false
-categories: ["文档"]
-tags: ["hugo"]
-keywords: ["hugo"]
+categories: [文档]
+tags: [hugo]
+keywords: [hugo]
 featuredImage: "/images/fengmian4.jpg"
 featuredImagePreview: "/images/fengmian4.jpg"
 description: "常用markdown语法(hugo+loveit主题)"

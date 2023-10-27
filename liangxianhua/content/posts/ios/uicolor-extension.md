@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [iOS,UIColor]
-categories: ["移动端"]
+categories: [移动端]
 keywords: [UIColor,iOS,颜色]
 featuredImage: "/images/fengmian4.jpg"
 featuredImagePreview: "/images/fengmian4.jpg"

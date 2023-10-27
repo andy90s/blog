@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [mysql]
-categories: ["工具"]
+categories: [工具]
 featuredImage: "/images/fengmian4.jpg"
 featuredImagePreview: "/images/fengmian4.jpg"
 

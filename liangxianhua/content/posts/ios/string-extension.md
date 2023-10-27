@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [String,iOS]
-categories: ["移动端"]
+categories: [移动端]
 featuredImage: "/images/fengmian.jpg"
 featuredImagePreview: "/images/fengmian.jpg"
 
@@ -127,7 +127,7 @@ func leftJustified(width: Int, pad: String = " ", truncate: Bool = false) -> Str
     return self + String(repeating: pad, count: width - count)
 }
 ```
-例如联动 [Color的十六进制字符串]({{<relref "../UIKit/UIColor的一些扩展.md#文章目录##前言">}})
+例如联动 [Color的十六进制字符串]({{<relref "./uicolor-extension.md#文章目录##前言">}})
 以黑色(**#000000**)为例: 
 ```swift
 String(UIColor.black.rgb, radix: 16) // print 0

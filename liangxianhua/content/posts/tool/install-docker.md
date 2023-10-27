@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: ["工具"]
+categories: [工具]
 featuredImage: ""
 featuredImagePreview: ""
 
@@ -94,6 +94,12 @@ docker compose up
 {{<image src="https://cdn.jsdelivr.net/gh/andy90s/blog-image@master/blog/images/docker_demo.png" title="【Misago】" width="90%">}}
 <div style="color:#717171;font-size:14px;font-weight:normal"> <b> 【Misago】 </b>  </div>
 </center>
+
+## 清理
+默认docker占用磁盘60G，如果不清理，会占用很多磁盘空间，可以通过如下命令清理
+```zsh
+docker system prune -a
+```
 
 ## 参考
 {{<link href="https://yeasy.gitbook.io/docker_practice/install/mac" content="【Docker 入门到实践】">}}

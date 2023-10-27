@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [iOS,Xcode]
-categories: ["移动端"]
+categories: [移动端]
 featuredImage: "/images/fengmian2.jpg"
 featuredImagePreview: "/images/fengmian2.jpg"
 

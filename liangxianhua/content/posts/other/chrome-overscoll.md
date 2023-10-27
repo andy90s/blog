@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [Chrome]
-categories: ["工具"]
+categories: [工具]
 featuredImage: ""
 featuredImagePreview: ""
 

@@ -2,7 +2,7 @@
 title: "Hugo常见问题"
 date: 2022-12-02T11:48:52+08:00
 draft: false
-categories: ["文档"]
+categories: [文档]
 tags: ["hugo"]
 keywords: ["hugo"]
 description: "Hugo 文章通用配置,gitalk评论设置"
@@ -96,7 +96,7 @@ hugo server -D # 启动本地服务
 [跳转到文章目录]({{</* relref "../other/hugo常见问题.md#文章目录" */>}})
 ```
 效果:
-[跳转到文章目录]({{<relref "../other/hugo常见问题.md#文章目录">}})
+[跳转到文章目录]({{<relref "../doc/hugo.md#文章目录">}})
 
 ## gitalk评论设置
 ### `github`生成application auth 

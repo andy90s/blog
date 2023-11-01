@@ -38,6 +38,16 @@
 			"{{< /admonition >}}"
 		],
 		"description": "blog-link"
-	}
+	},
+	// details标签
+	"markdown-details": {
+		"prefix": "details",
+		"body": [
+			"{{< details summary=\"$1\">}}",
+			
+			"{{< /details >}}"
+		],
+		"description": "blog-link"
+	},
 	
 }

@@ -1,8 +1,8 @@
 ---
-title: "iOS面试题"
+title: "vscode snippets对于markdown不生效"
 subtitle: ""
-date: 2023-11-01T09:55:35+08:00
-# lastmod: 2023-11-01T09:55:35+08:00
+date: 2023-12-09T20:26:55+08:00
+# lastmod: 2023-12-09T20:26:55+08:00
 draft: false
 author: "andy90s"
 authorLink: ""
@@ -10,9 +10,9 @@ description: ""
 license: ""
 images: []
 
-tags: [ios]
-categories: [移动端]
-keywords: [ios,面试]
+tags: [vscode, markdown]
+categories: [工具]
+keywords: [vscode, markdown, snippets]
 featuredImage: ""
 featuredImagePreview: ""
 
@@ -60,12 +60,21 @@ seo:
   # ...
 ---
 <!--more-->
-## 前言
-整理一些ios面试题，方便复习
-## 基础
-### 1. 说一下OC的内存管理
-
-
-
-
+## vscode snippets对于MARKDOWN不生效
+默认情况下，vscode 没有支持 markdown 的 snippets。
+## 解决
+打开 vscode 的 settings.json 文件，添加如下配置：
+```json
+"[markdown]": {
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    }
+}
+```
 

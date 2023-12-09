@@ -10,7 +10,8 @@
 		"<div style=\"color:#717171;font-size:14px;font-weight:normal\"> <b> $3 </b>  </div>",
 		"</center>"
 		],
-		"description": "blog-img"
+		"description": "blog-img",
+		"scope": "markdown"
 	},
 	// 内部跳转link
 	"markdown-link-in": {
@@ -18,7 +19,8 @@
 		"body": [
 			"[【$1】]({{<relref \"$2\">}})"
 		],
-		"description": "blog-link"
+		"description": "blog-link",
+		"scope": "markdown"
 	},
 	// 外部跳转link
 	"markdown-link-out": {
@@ -26,7 +28,8 @@
 		"body": [
 			"{{<link href=\"$1\" content=\"【$2】\">}}"
 		],
-		"description": "blog-link"
+		"description": "blog-link",
+		"scope": "markdown"
 	},
 
 	// 提示
@@ -37,7 +40,8 @@
 			
 			"{{< /admonition >}}"
 		],
-		"description": "blog-link"
+		"description": "blog-link",
+		"scope": "markdown"
 	},
 	// details标签
 	"markdown-details": {
@@ -47,7 +51,8 @@
 			
 			"{{< /details >}}"
 		],
-		"description": "blog-link"
-	},
+		"description": "blog-details",
+		"scope": "markdown"
+	}
 	
 }

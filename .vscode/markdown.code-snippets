@@ -43,6 +43,17 @@
 		"description": "blog-link",
 		"scope": "markdown"
 	},
+	// 问答 默认关闭 admonition
+	"markdown-qa": {
+		"prefix": "qa",
+		"body": [
+			"{{< admonition open=false type=question title=\"$1\">}}",
+			
+			"{{< /admonition >}}"
+		],
+		"description": "blog-question",
+		"scope": "markdown"
+	},
 	// details标签
 	"markdown-details": {
 		"prefix": "details",
@@ -53,6 +64,7 @@
 		],
 		"description": "blog-details",
 		"scope": "markdown"
-	}
+	},
+	
 	
 }

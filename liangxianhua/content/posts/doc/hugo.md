@@ -6,9 +6,7 @@ categories: [文档]
 tags: ["hugo"]
 keywords: ["hugo"]
 description: "Hugo 文章通用配置,gitalk评论设置"
-featuredImage: "/images/fengmian4.jpg"
-featuredImagePreview: "/images/fengmian4.jpg"
-lightgallery: true
+
 ---
 <!--more-->
 ## 文章目录

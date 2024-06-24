@@ -6,9 +6,7 @@ tags: [git]
 categories: [文档]
 keywords: ["git"]
 description: "git github问题记录"
-featuredImage: "/images/fengmian2.jpg"
-featuredImagePreview: "/images/fengmian2.jpg"
-lightgallery: true
+
 ---
 <!--more-->
 ## 生成ssh-key,对应不同平台

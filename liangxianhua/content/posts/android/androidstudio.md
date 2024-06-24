@@ -2,7 +2,6 @@
 title: "AndroidStudio 代理设置提示报错 You have JVM property https.proxyHost set to '127.0.0.1'"
 subtitle: ""
 date: 2024-06-23T10:27:12+08:00
-# lastmod: 2024-06-23T10:27:12+08:00
 draft: false
 author: "andy90s"
 authorLink: ""
@@ -13,51 +12,8 @@ images: []
 tags: [Android, AndroidStudio]
 categories: [移动端]
 keywords: []
-featuredImage: ""
-featuredImagePreview: ""
 
-hiddenFromHomePage: false
-hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: false
-rssFullText: false
 
-toc:
-  enable: true
-  auto: true
-code:
-  copy: true
-  # ...
-math:
-  enable: true
-  # ...
-mapbox:
-  accessToken: ""
-  # ...
-share:
-  enable: true
-  # ...
-comment:
-  enable: true
-  # ...
-library:
-  css:
-    # someCSS = "some.css"
-    # 位于 "assets/"
-    # 或者
-    # someCSS = "https://cdn.example.com/some.css"
-  js:
-    # someJS = "some.js"
-    # 位于 "assets/"
-    # 或者
-    # someJS = "https://cdn.example.com/some.js"
-seo:
-  images: []
-  # ...
 ---
 <!--more-->
 

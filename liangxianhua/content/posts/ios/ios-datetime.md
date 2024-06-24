@@ -5,8 +5,7 @@ draft: true
 categories: [移动端]
 tags: [iOS]
 keywords: [时间日期]
-featuredImage: "/images/fengmian4.jpg"
-featuredImagePreview: "/images/fengmian4.jpg"
+
 description: "Date格式化输出"
 ---
 <!--more-->

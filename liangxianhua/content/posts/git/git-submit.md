@@ -6,8 +6,7 @@ tags: ["git"]
 categories: ["文档"]
 keywords: ["git"]
 description: "提交信息由 `Header`+`Body`+`Footer`组成"
-featuredImage: "/images/fengmian3.jpg"
-featuredImagePreview: "/images/fengmian3.jpg"
+
 ---
 <!--more-->
 ## 代码提交记录示例

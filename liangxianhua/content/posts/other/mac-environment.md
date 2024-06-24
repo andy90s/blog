@@ -15,50 +15,11 @@ categories: [工具]
 featuredImage: "/images/fengmian2.jpg"
 featuredImagePreview: "/images/fengmian2.jpg"
 
-hiddenFromHomePage: false
-hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: false
-rssFullText: false
+
 
 reward: true
 
-toc:
-  enable: true
-  auto: true
-code:
-  copy: true
-  # ...
-math:
-  enable: true
-  # ...
-mapbox:
-  accessToken: ""
-  # ...
-share:
-  enable: true
-  # ...
-comment:
-  enable: true
-  # ...
-library:
-  css:
-    # someCSS = "some.css"
-    # 位于 "assets/"
-    # 或者
-    # someCSS = "https://cdn.example.com/some.css"
-  js:
-    # someJS = "some.js"
-    # 位于 "assets/"
-    # 或者
-    # someJS = "https://cdn.example.com/some.js"
-seo:
-  images: []
-  # ...
+
 ---
 <!--more-->
 ## 前言
@@ -109,6 +70,19 @@ brew install tree
 {{<image src="https://cdn.jsdelivr.net/gh/andy90s/blog-image@master/blog/images/202307070028887.png" title="tree" width="60%">}}
 <div style="color:#717171;font-size:14px;font-weight:normal"> <b> tree </b>  </div>
 </center>
+
+打印tree
+```
+tree
+```
+打印tree的目录级别
+```
+tree -L 2
+```
+只打印目录
+```
+tree -d
+```
 
 ## oh-my-zsh
 ```ruby

@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [AI]
-categories: [工具]
+categories: [other]
 featuredImage: "/images/fengmian4.jpg"
 featuredImagePreview: "/images/fengmian4.jpg"
 

@@ -44,7 +44,7 @@ theme = "DoIt"
     url = "/categories/文档/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = ""
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "web"
     # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -57,13 +57,24 @@ theme = "DoIt"
     title = ""
     weight = 3
   [[menu.main]]
+    identifier = "other"
+    # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+    pre = ""
+    # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+    post = ""
+    name = "其他"
+    url = "/categories/other/"
+    # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
+    title = ""
+    weight = 5
+  [[menu.main]]
     identifier = "tags"
     pre = ""
     post = ""
     name = "标签"
     url = "/tags/"
     title = ""
-    weight = 3
+    weight = 6
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -71,7 +82,7 @@ theme = "DoIt"
     name = "分类"
     url = "/categories/"
     title = ""
-    weight = 4
+    weight = 7
 
 [params]
   #  DoIt 主题版本

@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [vscode, markdown]
-categories: [工具]
+categories: [other]
 keywords: [vscode, markdown, snippets]
 
 

@@ -3,7 +3,7 @@ title: "工具"
 subtitle: ""
 date: 2023-02-15T09:23:33+08:00
 # lastmod: 2023-02-15T09:23:33+08:00
-draft: false
+draft: true
 author: "andy90s"
 authorLink: ""
 description: ""
@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: []
+categories: [other]
 
 
 ---

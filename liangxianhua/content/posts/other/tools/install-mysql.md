@@ -9,7 +9,7 @@ authorLink: ""
 description: "MySQL是一种流行的关系型数据库管理系统，本文将介绍如何在Mac上安装MySQL并创建数据库和表格。"
 license: ""
 images: []
-
+series: [macOS好用工具软件]
 tags: [mysql]
 categories: [其他]
 featuredImage: "/images/fengmian4.jpg"

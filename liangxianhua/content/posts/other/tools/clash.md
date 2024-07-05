@@ -8,7 +8,7 @@ description: ""
 
 tags: [tools]
 categories: [其他]
-series: []
+series: [macOS好用工具软件]
 keywords: [tools, clash]
 
 hiddenFromHomePage: false

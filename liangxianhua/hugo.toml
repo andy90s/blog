@@ -10,6 +10,8 @@ title = "刻舟求鉴"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "DoIt"
+# 是否使用 git 信息
+enableGitInfo = true
 
 [menu]
   [[menu.main]]

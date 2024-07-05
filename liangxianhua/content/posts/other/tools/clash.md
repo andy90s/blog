@@ -2,13 +2,13 @@
 title: "Clash"
 subtitle: ""
 date: 2024-07-04T23:37:27+08:00
-lastmod: 2024-07-04T23:37:27+08:00
+# lastmod: 2024-07-04T23:37:27+08:00
 draft: false
 authors: [andy90s]
 description: ""
 
 tags: [tools]
-categories: [other]
+categories: [其他]
 series: []
 keywords: [tools, clash]
 

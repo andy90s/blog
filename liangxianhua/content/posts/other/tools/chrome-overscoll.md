@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [Chrome]
-categories: [other]
+categories: [其他]
 
 
 ---

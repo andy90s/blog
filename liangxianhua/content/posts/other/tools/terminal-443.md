@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: [other]
+categories: [其他]
 keywords: []
 
 

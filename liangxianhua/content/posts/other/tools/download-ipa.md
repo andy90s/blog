@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: [网站,ipa]
-categories: [other]
+categories: [其他]
 keywords: [网站,ipa]
 
 

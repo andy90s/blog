@@ -32,7 +32,7 @@ theme = "DoIt"
     name = "移动端"
     url = "/categories/移动端/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
-    title = ""
+    title = "移动端"
     weight = 2
   [[menu.main]]
     identifier = "docs"
@@ -63,7 +63,7 @@ theme = "DoIt"
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
     name = "其他"
-    url = "/categories/other/"
+    url = "/categories/其他/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = ""
     weight = 5

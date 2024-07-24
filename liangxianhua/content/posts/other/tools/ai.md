@@ -27,3 +27,4 @@ featuredImagePreview: "/images/fengmian4.jpg"
 ## AI抠图
 {{<link href="https://github.com/Sanster/lama-cleaner" content="【lama-cleaner】(开源)">}}
 
+{{<image src="https://cdn.jsdelivr.net/gh/andy90s/blog-image/blog/images/swiftformat_xcode_short.png" src_l="https://cdn.jsdelivr.net/gh/andy90s/blog-image/blog/images/swiftformat_xcode_short.png" caption="Lighthouse (`image`)" width="30%">}}

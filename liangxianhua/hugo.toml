@@ -1,4 +1,4 @@
-#baseURL = "http://example.org/"
+baseURL = "http://xhliang.com/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
@@ -88,7 +88,7 @@ enableGitInfo = true
 
 [params]
   #  DoIt 主题版本
-  version = "0.3.X"
+  version = "0.4.X"
   # 网站名称
   title = "刻舟求鉴"
   # 网站描述
@@ -349,7 +349,7 @@ optimizeImages = true
     #  是否使用 twemoji
     twemoji = false
     # 是否使用 lightgallery
-    lightgallery = false
+    lightgallery = true
     #  是否使用 ruby 扩展语法
     ruby = true
     #  是否使用 fraction 扩展语法

@@ -5,6 +5,7 @@ draft: false
 categories: [文档]
 tags: ["hugo"]
 keywords: ["hugo"]
+series: [Hugo相关]
 description: "Hugo 文章通用配置,gitalk评论设置"
 
 ---
@@ -30,14 +31,7 @@ tags: ["HTML"]
 keywords: ["HTML"]
 ---
 ```
-## 常用指令
-```bash
-hugo new posts 文章.md # 发布文章
-hugo # 编译
-hugo server --disableFastRender # 禁用快速渲染
-hugo server -D # 启动本地服务 包含草稿
-hugo server # 启动本地服务 不包含草稿
-```
+
 ## loveit主题相关
 代码块识别语言高亮,配置文件路径:
 ```bash

@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "The Composable Architecture"
 subtitle: ""
-date: {{ .Date }}
+date: 2024-07-26T09:40:12+08:00
 draft: true
 authors: [andy90s]
 description: ""

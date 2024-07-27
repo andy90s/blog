@@ -206,5 +206,5 @@ keywords = ["Theme", "Hugo"]
       lightTheme = "light"
       darkTheme = "dark"
       dataLang = "zh-CN"
-      dataLoading = "lazy"
+      # dataLoading = "lazy"
 

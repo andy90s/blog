@@ -5,10 +5,7 @@
 		
 		"prefix": "img",
 		"body": [
-		"<center>",
-		"{{<image src=\"$1\" title=\"$2\" width=\"50%\">}}",
-		"<div style=\"color:#717171;font-size:14px;font-weight:normal\"> <b> $3 </b>  </div>",
-		"</center>"
+			"{{<image src=\"$1\" caption=\"$2\" src_s=\"$3\" src_l=\"$4\" width=\"50%\">}}"
 		],
 		"description": "blog-img",
 		"scope": "markdown"
